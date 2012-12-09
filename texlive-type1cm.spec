@@ -60,3 +60,16 @@ the same job for T1- and TS1-encoded ec fonts.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 20110324-2
++ Revision: 757165
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20110324-1
++ Revision: 719824
+- texlive-type1cm
+- texlive-type1cm
+- texlive-type1cm
+
