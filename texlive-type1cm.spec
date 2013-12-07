@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-type1cm
 Version:	20110324
-Release:	4
+Release:	5
 Summary:	Arbitrary size font selection in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/type1cm
