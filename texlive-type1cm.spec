@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-type1cm
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Arbitrary size font selection in LaTeX
 Group:		Publishing
