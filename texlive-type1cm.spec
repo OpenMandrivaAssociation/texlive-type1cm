@@ -1,6 +1,6 @@
 Name:		texlive-type1cm
 Version:	21820
-Release:	1
+Release:	2
 Summary:	Arbitrary size font selection in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/type1cm
