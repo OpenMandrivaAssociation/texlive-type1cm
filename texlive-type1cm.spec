@@ -3,7 +3,7 @@ Version:	21820
 Release:	2
 Summary:	Arbitrary size font selection in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/type1cm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/type1cm
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/type1cm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/type1cm.doc.r%{version}.tar.xz
